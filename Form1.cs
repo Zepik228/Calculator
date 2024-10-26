@@ -21,7 +21,7 @@ namespace Calculator
         int count;
         bool znak = true;
 
-        private void button17_Click(object sender, EventArgs e)
+        private void button17_Click(object sender, EventArgs e)//комментарий
         {
             textBox1.Text = textBox1.Text + 0;
         }
